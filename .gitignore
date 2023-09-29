@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignorar o arquivo env.py
+**/env.py
+
+# Ignorar todos os arquivos nos diretórios
+dataframes/
+temp/
+venv/

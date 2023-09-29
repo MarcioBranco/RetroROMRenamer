@@ -1,0 +1,22 @@
+# TODO - RetroROMRenamer
+
+Este arquivo lista as tarefas pendentes e os planos futuros para o projeto RetroROMRenamer.
+
+## Tarefas Iniciais
+
+- [ ] Implementar a funcionalidade de renomeação local de arquivos de ROM.
+- [ ] Configurar a estrutura de diretórios para organizar as ROMs renomeadas.
+- [ ] Desenvolver um mecanismo para correspondência de dados do DataFrame com nomes de arquivos.
+- [ ] Criar uma função de teste para verificar a correspondência entre os dados do DataFrame e os nomes de arquivos.
+- [ ] Documentar os pré-requisitos e instruções de instalação no README.md.
+- [ ] Adicionar informações sobre como configurar o acesso FTP no README.md.
+
+## Planos Futuros
+
+- [ ] Aprimorar a documentação e fornecer exemplos de uso.
+- [ ] Adicionar suporte a diferentes formatos de arquivo de ROM.
+- [ ] Implementar um sistema de log para rastrear operações.
+- [ ] Criar uma interface de linha de comando (CLI) amigável.
+- [ ] Adicionar testes automatizados para garantir a estabilidade.
+- [ ] Melhorar o desempenho ao lidar com grandes volumes de dados.
+- [ ] Desenvolver uma interface gráfica do usuário (GUI) opcional.
