@@ -1,6 +1,6 @@
 # RetroROMRenamer
 
-![Project Logo](link-para-uma-imagem-do-logo.png)
+![Project Logo](logo.png)
 
 **RetroROMRenamer** é uma ferramenta para renomear arquivos de ROMs de jogos retrô de forma automatizada, com base em informações contidas em um DataFrame ou outras fontes de dados. Esta ferramenta é ideal para entusiastas de jogos retrô que desejam organizar e padronizar suas coleções de ROMs.
 
