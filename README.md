@@ -15,3 +15,5 @@ To get started with RetroRomRenamer, follow these steps:
 
 1. Clone the repository to your local machine:
    git clone https://github.com/MarcioBranco/RetroROMRenamer.git
+   pip install -r requirements.txt
+   python retro_rom_renamer.py /path/to/your/roms
